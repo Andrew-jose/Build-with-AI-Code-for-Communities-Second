@@ -1,0 +1,6 @@
+{
+  "name": "CycloneShield AI",
+  "description": "AI-powered pre-landfall cyclone risk, storm surge simulation, vulnerability analysis, and anticipatory-action command center for coastal APAC disaster management authorities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
